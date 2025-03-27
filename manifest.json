@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Base Plug",
+	"version": "0.1",
+	"description": "this is base plugin",
+	"homepage_url": "https://github.com/mfayyazb/base_plug",
+	"applications": {
+		"zotero": {
+			"id": "baseplug@local.dev",
+			"update_url": "https://example.com/updates.json",
+			"strict_min_version": "6.999",
+			"strict_max_version": "7.1.*"
+		}
+	}
+}
