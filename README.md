@@ -1,2 +1,2 @@
-# base-plugin
+# TranslatorUpdator
 base zotero 7 plugin
